@@ -1,9 +1,9 @@
 {
-    "name": "paolo/paridispari",
+    "name": "paolo/compleanno",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Paolo\\paridispari\\": "src/"
+            "Paolo\\compleanno\\": "src/"
         }
     },
     "require-dev": {
